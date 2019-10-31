@@ -1,0 +1,68 @@
+Benefits of Spring Framework
+-    Spring is a powerful framework, which address many common problems in Java EE. 
+     It includes support for managing business objects and exposing their services to presentation tier component.
+-    It facilitates good programming practice such as programming using interfaces instead of classes. 
+     Spring enables developers to develop enterprise applications using POJO and POJI model programming.
+     End to end Development : Spring supports all aspects of application development, Business aspects,
+     persistence aspects, etc, so we can develop a complete application using spring.
+     Spring supports All types of application development: We can develop any type of applications using spring, 
+     eg: Core java, web Application, Distributed application, Enterprise application.
+
+
+Example of spring projects
+Spring Cloud
+Provides a set of tools for common patterns in distributed systems. Useful for building and deploying microservices.
+
+Spring Data
+Provides a consistent approach to data access – relational, non-relational, map-reduce, and beyond.
+
+Spring Integration
+Supports the well-known Enterprise Integration Patterns via lightweight messaging and declarative adapters.
+
+Spring Batch
+Simplifies and optimizes the work of processing high-volume batch operations.
+
+Spring Security
+Protects your application with comprehensive and extensible authentication and authorization support.
+
+Spring HATEOAS
+Simplifies creating REST representations that follow the HATEOAS principle.
+
+Spring REST Docs
+Document RESTful services by combining hand-written documentation with auto-generated snippets produced with Spring MVC Test or REST Assured.
+
+Spring AMQP
+Applies core Spring concepts to the development of AMQP-based messaging solutions.
+
+Spring Mobile
+Simplifies the development of mobile web apps through device detection and progressive rendering options.
+
+Spring for Android
+Provides key Spring components for use in developing Android applications.
+
+Spring Web Flow
+Supports building web applications with controlled navigation such as checking in for a flight or applying for a loan.
+
+Spring Web Services
+Facilitates the development of
+contract-first SOAP web services.
+
+Spring LDAP
+Simplifies the development of applications using LDAP using Spring's familiar template-based approach.
+
+Spring Session
+Spring Session provides an API and implementations for managing a user’s session information.
+
+Spring Shell
+Provides a powerful foundation for building command-line apps using a Spring-based programming model.
+
+Spring Flo
+A JavaScript library that offers a basic embeddable HTML5 visual builder for pipelines and simple graphs.
+
+Spring Kafka
+Provides Familiar Spring Abstractions for Apache Kafka.
+
+Spring Statemachine
+A framework for application developers to use state machine concepts with Spring applications.
+
+Spring IO Platform
