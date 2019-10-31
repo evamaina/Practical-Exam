@@ -1,0 +1,18 @@
+	
+	To demonstrate the use of MVC pattern in Angular I created a simple todo app attached on the repo as MVC with Angular.
+	Below is the explanation of how I achieve MVC in the todo app. 	
+
+	MVC 
+
+	Model 
+	The model contains the business logic of the application.
+	I used TodoService class to act as the model, it hold all the 
+	CRUD operations which in our case is the business logic  	
+
+	View 
+	User interface of the application.
+	I used HTML component to display todo contents. It's the interface that the user will be interacting with it.
+
+	Controller
+	Feeds the view with the data from model.
+	I used observer to update the views with the changes made to todo array list either insertion or deletion
